@@ -1,0 +1,389 @@
+﻿card_id_hex,card_id_dec,name,attack,shield
+36B0,14000,"Crimson Butterfly, Brigitte",10000,0
+36B3,14003,"Knight of the Harp, Tristan",8000,5000
+36B5,14005,Starlight Unicorn,6000,5000
+36B6,14006,"Knight of Rose, Morgana",6000,5000
+36B7,14007,Stardust Trumpeter,6000,10000
+36B8,14008,"Bringer of Good Luck, Epona",5000,10000
+36CF,14031,"Dragon Monk, Goku",10000,0
+36D0,14032,"Demonic Dragon Berserker, Yaksha",9000,0
+36D1,14033,Berserk Dragon,9000,5000
+36D2,14034,"Flame of Hope, Aermo",6000,5000
+36D3,14035,"Demonic Dragon Madonna, Joka",6000,5000
+36D4,14036,"Lizard Runner, Undeux",6000,10000
+36D5,14037,"Demonic Dragon Mage, Rakshasa",3000,10000
+36EC,14060,Gold Rutile,10000,0
+36ED,14061,Death Metal Droid,10000,0
+36EE,14062,"Super Electromagnetic Lifeform, Storm",9000,5000
+36EF,14063,Oasis Girl,7000,5000
+36F0,14064,Battering Minotaur,6000,5000
+370A,14090,"Goddess of Flower Divination, Sakuya",10000,0
+370B,14091,Meteor Break Wizard,10000,0
+370C,14092,Sword Dancer Angel,8000,5000
+370D,14093,Dark Cat,7000,5000
+370F,14095,"Battle Sister, Maple",6000,5000
+3728,14120,"Great Silver Wolf, Garmore",10000,0
+3729,14121,Sleygal Double Edge,10000,0
+372A,14122,"Battlefield Storm, Sagramore",10000,0
+372B,14123,Sleygal Sword,9000,5000
+372C,14124,"Sacred Guardian Beast, Nemean Lion",8000,5000
+372D,14125,Charging Chariot Knight,8000,5000
+372E,14126,"Evil Slaying Swordsman, Haugan",7000,5000
+372F,14127,"Precipice Whirlwind, Sagramore",6000,5000
+3730,14128,Charjgal,6000,5000
+3731,14129,Blessing Owl,6000,5000
+3732,14130,Silver Fang Witch,5000,5000
+3733,14131,"Grassland Breeze, Sagramore",6000,10000
+3734,14132,Silent Punisher,5000,10000
+3735,14133,"Weapons Dealer, Gwydion",5000,5000
+3736,14134,Fortune Bell,5000,10000
+3737,14135,Elixir Sommelier,5000,10000
+3746,14150,Thunder Break Dragon,10000,0
+3747,14151,Djinn of the Lightning Flash,10000,0
+3748,14152,Plasmabite Dragon,10000,0
+3749,14153,Shieldblade Dragoon,8000,5000
+374A,14154,Djinn of the Lightning Flare,8000,5000
+374B,14155,Brightjet Dragon,8000,5000
+374C,14156,"Lizard Soldier, Riki",7000,5000
+374D,14157,"Lightning of Hope, Helena",6000,5000
+374E,14158,Djinn of the Lightning Spark,6000,5000
+374F,14159,"Dragon Dancer, RaiRai",6000,5000
+3750,14160,Wyvern Supply Unit,6000,5000
+3751,14161,"Lizard Soldier, Sishin",6000,10000
+3752,14162,Yellow Gem Carbuncle,5000,10000
+3753,14163,Old Dragon Mage,5000,5000
+3754,14164,"Zephyr Kid, Hayate",5000,10000
+3755,14165,"Demonic Dragon Nymph, Seiobo",5000,10000
+3B7E,15230,Bｌazing Core Dragon,9000,5000
+3D0A,15626,Twin Order,10000,5000
+3E80,16000,"Circular Saw, Kiriel",10000,0
+3E81,16001,"Battle Cupid, Nociel",6000,5000
+3E82,16002,"Ice Prison Necromancer, Cocytus",10000,0
+3E83,16003,"Incandescent Lion, Blond Ezel",10000,0
+3E84,16004,"Player of the Holy Bow, Viviane",9000,5000
+3E85,16005,Dragonic Kaiser Vermillion,11000,0
+3E86,16006,"Desert Gunner, Shiden",9000,5000
+3E87,16007,"Beast Deity, Azure Dragon",11000,0
+3E88,16008,"Cosmo Healer, Ergodiel",10000,0
+3E89,16009,"Core Memory, Armaros",9000,5000
+3E8A,16010,"Love Machine Gun, Nociel",8000,5000
+3E8B,16011,"Pure Keeper, Requiel",6000,0
+3E8C,16012,Deadly Swordmaster,11000,0
+3E8D,16013,"Death Seeker, Thanatos",10000,0
+3E8E,16014,"Knight of Fury, Agravain",10000,0
+3E8F,16015,Sleygal Dagger,7000,5000
+3E90,16016,"Halo Shield, Mark",6000,0
+3E91,16017,"Vajra Emperor, Indra",10000,0
+3E92,16018,Dragonic Deathscythe,9000,5000
+3E93,16019,"Wyvern Guard, Guld",6000,0
+3E94,16020,"Mobile Hospital, Feather Palace",10000,0
+3E95,16021,"Drill Bullet, Geniel",10000,0
+3E96,16022,"The Phoenix, Calamity Flame",10000,0
+3E97,16023,"Gattling Shot, Barbiel",10000,5000
+3E98,16024,"Fate Healer, Ergodiel",9000,5000
+3E99,16025,Miracle Feather Nurse,4000,10000
+3E9A,16026,"Master Swordsman, Nightstorm",10000,0
+3E9B,16027,Skeleton Demon World Knight,9000,5000
+3E9C,16028,Deadly Spirit,9000,5000
+3E9D,16029,"Three Star Chef, Pietro",9000,5000
+3E9E,16030,Deadly Nightmare,7000,5000
+3E9F,16031,"Knight of Superior Skills, Beaumains",10000,5000
+3EA0,16032,"Mage of Calamity, Tripp",9000,5000
+3EA1,16033,"Player of the Holy Axe, Nimue",7000,5000
+3EA2,16034,"Crimson Lion Cub, Kyrph",5000,10000
+3EA3,16035,"Riot General, Gyras",10000,0
+3EA4,16036,Thunderstorm Dragoon,10000,5000
+3EA5,16037,"Demonic Dragon Berserker, Garuda",9000,5000
+3EA6,16038,"Desert Gunner, Raien",7000,5000
+3EA7,16039,Photon Bomber Wyvern,6000,5000
+3EA8,16040,"Lizard Soldier, Saishin",5000,10000
+3EA9,16041,"Beast Deity, White Tiger",5000,10000
+3EAA,16042,"Pulse Wave, Adriel",10000,0
+3EAB,16043,Million Ray Pegasus,9000,5000
+3EAC,16044,"Iron Heart, Mastema",8000,5000
+3EAD,16045,"Holy Zone, Penemue",8000,5000
+3EAE,16046,"Burst Shot, Bethnael",8000,5000
+3EAF,16047,Thousand Ray Pegasus,7000,5000
+3EB0,16048,Heavenly Injector,7000,5000
+3EB1,16049,Lancet Shooter,7000,5000
+3EB2,16050,Carrier of the Life Water,6000,5000
+3EB3,16051,Clutch Rifle Angel,6000,5000
+3EB4,16052,Lightning Charger,6000,5000
+3EB5,16053,Thermometer Angel,4000,10000
+3EB6,16054,Rocket Dash Unicorn,5000,10000
+3EB7,16055,Bouquet Toss Messenger,5000,5000
+3EB8,16056,Aurora Ribbon Pigeon,5000,10000
+3EB9,16057,Critical Hit Angel,4000,10000
+3EBA,16058,"Happy Bell, Nociel",4000,10000
+3EBB,16059,Sunny Smile Angel,3000,10000
+3EBC,16060,God-eating Zombie Shark,10000,0
+3EBD,16061,Stormride Ghost Ship,11000,5000
+3EBE,16062,Undead Pirate of the Frigid Night,8000,5000
+3EBF,16063,"Sea Navigator, Silver",7000,5000
+3EC0,16064,Skeleton Colossus,7000,5000
+3EC1,16065,Child Frank,7000,5000
+3EC2,16066,John the Ghostie,6000,5000
+3EC3,16067,Ripple Banshee,6000,5000
+3EC4,16068,Dragon Spirit,6000,5000
+3EC5,16069,Undead Pirate of the Cursed Rifle,6000,5000
+3EC6,16070,Captain Nightkid,5000,10000
+3EC7,16071,Skeleton Assault Troops Captain,4000,10000
+3EC8,16072,Ghoul Cannonball,5000,10000
+3EC9,16073,Hook-wielding Zombie,5000,5000
+3ECA,16074,Doctor Rouge,5000,10000
+3ECB,16075,Hades Steersman,3000,10000
+3ECC,16076,Gigantech Crusher,10000,0
+3ECD,16077,"Holy Mage, Manawydan",10000,0
+3ECE,16078,Gigantech Commander,8000,5000
+3ECF,16079,"Sacred Guardian Beast, Elephas",8000,5000
+3ED0,16080,Providence Strategist,7000,5000
+3ED1,16081,"Knight of Elegant Skills, Gareth",8000,5000
+3ED2,16082,Waving Owl,6000,5000
+3ED3,16083,"Little Battler, Tron",6000,5000
+3ED4,16084,"Little Fighter, Cron",4000,10000
+3ED5,16085,Greeting Drummer,5000,10000
+3ED6,16086,Flame of Victory,4000,10000
+3ED7,16087,Breakthrough Dragon,10000,0
+3ED8,16088,Hex Cannon Wyvern,8000,5000
+3ED9,16089,"Dragon Monk, Ensei",7000,5000
+3EDA,16090,Red River Dragoon,8000,5000
+3EDB,16091,Stealth Fighter,6000,5000
+3EDC,16092,"Lizard Soldier, Yowsh",6000,5000
+3EDD,16093,Spark Kid Dragoon,4000,10000
+3EDE,16094,"Dragon Dancer, Catharina",5000,10000
+3EDF,16095,Malevolent Djinn,4000,10000
+3EE0,16096,Moai the Great,10000,0
+3EE1,16097,"Beast Deity, Black Tortoise",8000,5000
+3EE2,16098,Marvelous Hani,7000,5000
+3EE3,16099,Almighty Reporter,6000,5000
+3EE4,16100,"Beast Deity, Scarlet Bird",6000,5000
+3EE5,16101,Red Card Dealer,5000,10000
+3EE6,16102,"Circular Saw, Kiriel",10000,0
+3EE7,16103,"Battle Cupid, Nociel",6000,5000
+3EE8,16104,"Ice Prison Necromancer, Cocytus",10000,0
+3EE9,16105,"Incandescent Lion, Blond Ezel",10000,0
+3EEA,16106,"Player of the Holy Bow, Viviane",9000,5000
+3EEB,16107,Dragonic Kaiser Vermillion,11000,0
+3EEC,16108,"Desert Gunner, Shiden",9000,5000
+3EED,16109,"Beast Deity, Azure Dragon",11000,0
+3EEE,16110,"Cosmo Healer, Ergodiel",10000,0
+3EEF,16111,"Death Seeker, Thanatos",10000,0
+3EF0,16112,"Knight of Fury, Agravain",10000,0
+3EF1,16113,"Vajra Emperor, Indra",10000,0
+3F48,16200,"School Hunter, Leo-pald",10000,0
+3F49,16201,"Guardian of Truth, Lox",10000,0
+3F4A,16202,Binoculus Tiger,9000,5000
+3F4B,16203,"Silver Thorn Dragon Tamer, Luquier",10000,0
+3F4C,16204,Dark Lord of Abyss,11000,0
+3F4D,16205,"Emerald Witch, LaLa",7000,5000
+3F4E,16206,"White Hare in the Moon's Shadow, Pellinore",10000,0
+3F4F,16207,"Chief Nurse, Shamsiel",10000,0
+3F50,16208,"School Dominator, Apt",10000,0
+3F51,16209,Lamp Camel,9000,5000
+3F52,16210,Monoculus Tiger,7000,5000
+3F53,16211,Cable Sheep,6000,0
+3F54,16212,"Sword Magician, Sarah",10000,0
+3F55,16213,"Fire Breeze, Carrie",9000,5000
+3F56,16214,Peek-a-boo,8000,5000
+3F57,16215,Magician of Quantum Mechanics,6000,5000
+3F58,16216,Blade Wing Reijy,10000,0
+3F59,16217,Emblem Master,9000,5000
+3F5A,16218,Yellow Bolt,7000,5000
+3F5B,16219,"Listener of Truth, Dindrane",6000,5000
+3F5C,16220,"Pencil Hero, Hammsuke",10000,0
+3F5D,16221,Dumbbell Kangaroo,10000,0
+3F5E,16222,Magnet Crocodile,10000,0
+3F5F,16223,"Law Official, Lox",9000,5000
+3F60,16224,"Pencil Squire, Hammsuke",6000,5000
+3F61,16225,Thermometer Giraffe,6000,5000
+3F62,16226,Tank Mouse,6000,5000
+3F63,16227,Flask Marmoset,5000,10000
+3F64,16228,Midnight Invader,10000,0
+3F65,16229,Dancing Princess of the Night Sky,8000,5000
+3F66,16230,"Bull's Eye, Mia",7000,5000
+3F67,16231,Purple Trapezist,6000,5000
+3F68,16232,Evil Eye Basilisk,10000,0
+3F69,16233,Hades Carriage of the Witching Hour,8000,5000
+3F6A,16234,Free Traveler,8000,5000
+3F6B,16235,Courting Succubus,7000,5000
+3F6C,16236,"Sky Witch, NaNa",10000,0
+3F6D,16237,"Battle Sister, Glace",8000,5000
+3F6E,16238,"Little Witch, LuLu",5000,10000
+3F6F,16239,"Photon Archer, Griflet",10000,0
+3F70,16240,Lop Ear Shooter,9000,5000
+3F71,16241,Spring Breeze Messenger,5000,10000
+3F72,16242,Calculator Hippo,10000,0
+3F73,16243,Schoolbag Sea Lion,10000,0
+3F74,16244,Red Pencil Rhino,10000,5000
+3F75,16245,"Pencil Knight, Hammsuke",8000,5000
+3F76,16246,Globe Armadillo,8000,5000
+3F77,16247,"Explosion Scientist, Bunta",8000,5000
+3F78,16248,Multimeter Giraffe,8000,5000
+3F79,16249,Canvas Koala,7000,5000
+3F7A,16250,"Thumbtack Fighter, Resanori",7000,5000
+3F7B,16251,Tick Tock Flamingo,7000,5000
+3F7C,16252,"Bringer of Knowledge, Lox",7000,5000
+3F7D,16253,Element Glider,6000,5000
+3F7E,16254,"Failure Scientist, Ponkichi",6000,5000
+3F7F,16255,Feather Penguin,6000,5000
+3F80,16256,Hula Hoop Capybara,6000,5000
+3F81,16257,Acorn Master,4000,10000
+3F82,16258,"Schoolyard Prodigy, Lox",4000,10000
+3F83,16259,Triangle Cobra,5000,10000
+3F84,16260,Fortune-bringing Cat,5000,5000
+3F85,16261,Alarm Chicken,5000,10000
+3F86,16262,Eraser Alpaca,5000,10000
+3F87,16263,Dictionary Goat,5000,10000
+3F88,16264,Ruler Chameleon,3000,10000
+3F89,16265,"Nightmare Doll, Amy",10000,0
+3F8A,16266,Dreamy Fortress,9000,5000
+3F8B,16267,See-saw Game Loser,8000,5000
+3F8C,16268,Drawing Dread,7000,5000
+3F8D,16269,Jumping Glenn,7000,5000
+3F8E,16270,Dreamy Ammonite,7000,5000
+3F8F,16271,See-saw Game Winner,6000,5000
+3F90,16272,Pinky Piggy,6000,5000
+3F91,16273,Girl Who Crossed the Gap,5000,10000
+3F92,16274,Innocent Magician,4000,10000
+3F93,16275,Flyer Flyer,5000,5000
+3F94,16276,Cracker Musician,5000,10000
+3F95,16277,Popcorn Boy,5000,10000
+3F96,16278,Poison Juggler,4000,10000
+3F97,16279,Demon Chariot of the Witching Hour,10000,0
+3F98,16280,Beast in Hand,8000,5000
+3F99,16281,Cyber Beast,7000,5000
+3F9A,16282,Demon Bike of the Witching Hour,6000,5000
+3F9B,16283,Beautiful Harpuia,6000,5000
+3F9C,16284,Mirage Maker,6000,5000
+3F9D,16285,Rune Weaver,6000,5000
+3F9E,16286,Greedy Hand,5000,10000
+3F9F,16287,Devil in Shadow,4000,10000
+3FA0,16288,Mad Hatter of Nightmareland,5000,5000
+3FA1,16289,Hungry Egg of Nightmareland,5000,10000
+3FA2,16290,Cheshire Cat of Nightmareland,5000,10000
+3FA3,16291,Dark Knight of Nightmareland,4000,10000
+3FA4,16292,"Battle Sister, Souffle",10000,0
+3FA5,16293,"Oracle Guardian, Shisa",7000,5000
+3FA6,16294,Moonsault Swallow,6000,5000
+3FA7,16295,"Battle Sister, Eclair",4000,10000
+3FA8,16296,Master of Pain,8000,5000
+3FA9,16297,Disciple of Pain,6000,5000
+3FAA,16298,Speeder Hound,5000,5000
+3FAB,16299,Doctroid Megalos,8000,5000
+3FAC,16300,Doctroid Micros,6000,5000
+3FAD,16301,"Hope Child, Turiel",5000,10000
+3FAE,16302,"School Hunter, Leo-pald",10000,0
+3FAF,16303,"Guardian of Truth, Lox",10000,0
+3FB0,16304,Binoculus Tiger,9000,5000
+3FB1,16305,"Silver Thorn Dragon Tamer, Luquier",10000,0
+3FB2,16306,Dark Lord of Abyss,11000,0
+3FB3,16307,"Emerald Witch, LaLa",7000,5000
+3FB4,16308,"White Hare in the Moon's Shadow, Pellinore",10000,0
+3FB5,16309,"Chief Nurse, Shamsiel",10000,0
+3FB6,16310,"School Dominator, Apt",10000,0
+3FB7,16311,Monoculus Tiger,7000,5000
+3FB8,16312,"Sword Magician, Sarah",10000,0
+3FB9,16313,Blade Wing Reijy,10000,0
+4B00,19200,"Demonic Lord, Dudley Emperor",10000,0
+4B01,19201,Spectral Duke Dragon,10000,0
+4B02,19202,Reckless Express,7000,5000
+4B03,19203,"Martial Arts Mutant, Master Beetle",11000,0
+4B04,19204,"White Dragon Knight, Pendragon",10000,0
+4B05,19205,"Origin Mage, Ildona",10000,0
+4B06,19206,Dragonic Lawkeeper,10000,0
+4B07,19207,Jelly Beans,10000,0
+4B08,19208,Dudley Daisy,7000,5000
+4B09,19209,"Bewitching Officer, Lady Butterfly",10000,0
+4B0A,19210,Toxic Trooper,9000,5000
+4B0B,19211,Toxic Soldier,7000,5000
+4B0C,19212,Gigantech Destroyer,10000,0
+4B0D,19213,"Black Dragon Knight, Vortimer",9000,5000
+4B0E,19214,"Black Dragon Whelp, Vortimer",4000,10000
+4B0F,19215,Dudley Douglass,9000,5000
+4B10,19216,"Fierce Leader, Zachary",9000,5000
+4B11,19217,Field Driller,7000,5000
+4B12,19218,Medical Manager,7000,5000
+4B13,19219,"Smart Leader, Dark Bringer",5000,10000
+4B14,19220,Kungfu Kicker,5000,10000
+4B15,19221,"Iron Fist Mutant, Roly Poly",8000,5000
+4B16,19222,"Transmutated Thief, Steal Spider",7000,5000
+4B17,19223,Machining Mosquito,7000,5000
+4B18,19224,"Pest Professor, Mad Fly",6000,5000
+4B19,19225,Megacolony Battler C,5000,10000
+4B1A,19226,Awaking Dragonfly,5000,10000
+4B1B,19227,Flash Edge Valkyrie,8000,5000
+4B1C,19228,"Scout of Darkness, Vortimer",7000,5000
+4B1D,19229,Blade Feather Valkyrie,7000,5000
+4B1E,19230,"War-horse, Raging Storm",6000,5000
+4B1F,19231,Falcon Knight of the Azure,4000,5000
+4B20,19232,"Knight of Determination, Lamorak",10000,5000
+4B21,19233,"Knight of Fighting Spirit, Dordona",10000,5000
+4B22,19234,"Cross Shot, Garp",10000,5000
+4B23,19235,"Demonic Lord, Dudley Emperor",10000,0
+4B24,19236,Spectral Duke Dragon,10000,0
+4B25,19237,"Martial Arts Mutant, Master Beetle",11000,0
+4B26,19238,"White Dragon Knight, Pendragon",10000,0
+4B27,19239,"Origin Mage, Ildona",10000,0
+4B28,19240,Dragonic Lawkeeper,10000,0
+5208,21000,Onmyoji of the Moonlit Night,8000,5000
+5209,21001,"Sword Emperor, Dragonic Valblade",10000,0
+520A,21002,Exile Dragon,10000,0
+520B,21003,Scale Dragon of the Magma Cave,6000,5000
+520C,21004,"Guardian of the Skies, Night Griffon",6000,5000
+520E,21006,Knight Squire Allen,7000,5000
+5210,21008,Alfred Early,10000,0
+5211,21009,Lion Mane Stallion,4000,5000
+5212,21010,Glyme,6000,10000
+5213,21011,Miru Biru,6000,5000
+5214,21012,Giro,5000,10000
+5215,21013,Dragonic Executioner,10000,0
+5216,21014,Dragon Armored Knight,10000,5000
+5217,21015,Petal Fairy,6000,5000
+5218,21016,Cup Bowler,9000,5000
+5219,21017,Omniscience Madonna,10000,0
+521A,21018,Sphere Magus,3000,10000
+521B,21019,"Dragon Undead, Skull Dragon",10000,0
+521C,21020,King Seahorse,6000,5000
+521D,21021,"High Dog Breeder, Seiran",8000,5000
+521E,21022,Dragonic Vanisher,9000,0
+521F,21023,Onmyoji of the Moonlit Night,8000,5000
+5220,21024,"Wyvern Strike, Plajuri",10000,0
+5221,21025,"Knight of the Steel Blade, Caradoc",9000,0
+5222,21026,Eagle Knight of the Skies,8000,5000
+5223,21027,"Sword Emperor, Dragonic Valblade",10000,0
+5224,21028,Dragonic Waterfall,10000,0
+5225,21029,Holy Disaster Dragon,10000,0
+5226,21030,Blue Scale Deer,8000,5000
+5227,21031,"Cannon Fire Dragon, Sledge Ankylo",4000,5000
+5228,21032,Gyro Slinger,7000,5000
+5229,21033,Knowledge Drunkard,8000,5000
+522A,21034,Purple Trapezist,6000,5000
+522C,21036,"Kungｆu Kid, Bolta",8000,5000
+522D,21037,Grapeshot Wyvern,6000,5000
+522E,21038,"Twin Shine Swordsman, Marhaus",10000,0
+522F,21039,Flare Whip Dragon,10000,0
+5230,21040,Triple Dark Armor,8000,5000
+5231,21041,Darkside Pegasus,6000,5000
+5232,21042,Genie Soldat,11000,5000
+5233,21043,"Land Battle Support Type, Enigship",7000,5000
+5236,21046,Muscle Hercules,10000,0
+5237,21047,"Commander, Garry Gannon",6000,5000
+5238,21048,"Wyvern Strike, Gyuntulu",8000,5000
+523B,21051,"No Life King, Death Anchor",10000,0
+523C,21052,Coongal,5000,10000
+523D,21053,Dreadcharge Dragon,10000,0
+523E,21054,Brightlance Dragoon,10000,5000
+523F,21055,Rising Phoenix,5000,5000
+5240,21056,"Battle Flag Knight, Laudine",8000,5000
+5241,21057,Red Magma,7000,5000
+5242,21058,Greed Shade,8000,5000
+5243,21059,Satellitefall Dragon,10000,0
+5244,21060,The Dark Dictator,10000,0
+5245,21061,Dark Lord of Pale Moon,10000,0
+5246,21062,"Battle Sister, Omelet",7000,5000
+5247,21063,Blackmane Witch,6000,5000
+5248,21064,Rumble Gun Dragon,10000,0
+5249,21065,Flirtatious Succubus,9000,5000
+524A,21066,Cycling Actor,8000,5000
+524B,21067,Beaker Holstein,8000,5000
+524C,21068,Stamp Sea Otter,6000,5000
